@@ -19,15 +19,6 @@ Minor features yet to be implemented for 0.1:
 * Copy on screen addresses
 * Send-all waiver of developer fee
 
-Join us for discussions at channel gemmer of the Primecoin discord:
-https://discord.gg/g9mctgx
+For more information and FAQ visit [gemmer's wiki](https://github.com/primecoin/gemmer/wiki).
 
-### FAQ for Developers
-
-How to switch to another coin?
-
-Type the coin's name in lower case into the amount input box. This is the developer way that will be kept in future releases. In fact, this will be the only way to switch to testnet coins in the future.
-
-What's gem?
-
-Gem is another name for primecoin in gemmer. The gems amount shown on transaction display are actual primecoins, charged on behalf of each listing coin's developers to improve their service to the crypto community.
+Join us for discussions and technical support at channel gemmer of the [Primecoin discord](https://discord.gg/g9mctgx) :)
