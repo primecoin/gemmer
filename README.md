@@ -1,11 +1,11 @@
 # gemmer
 Minimalist multi-wallet by Primecoin Project and Crane Square
 
-### 0.1.2 developer release
+### 0.1.3 Alpha Release
 
-For developer preview and testing only.
+Alpha release is meant for limited trial use only. Use at one's own risks.
 
-Implemented major features in 0.1.2:
+Implemented major features in 0.1:
 
 * One key per coin multi-wallet implementation
 * Simple ledger supporting transaction history display
