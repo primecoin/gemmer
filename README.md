@@ -1,7 +1,7 @@
 # gemmer
 Minimalist multi-wallet by Primecoin Project and Crane Square
 
-### 0.1.3 Alpha Release
+### 0.1.4 Alpha Release
 
 Alpha release is meant for limited trial use only. Use at one's own risks.
 
