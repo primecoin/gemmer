@@ -1,22 +1,17 @@
 # gemmer
 Minimalist multi-wallet by Primecoin Project and Crane Square
 
-### 0.1.5 Alpha Release
+### 0.2.0 Developer Release
 
-Alpha release is meant for limited trial use only. Use at one's own risks.
+For developer preview and testing only.
 
-Implemented major features in 0.1:
+Implemented major features in 0.2:
 
-* One key per coin multi-wallet implementation
-* Simple ledger supporting transaction history display
-* Minimalist UI for basic wallet operations: deposit, refresh, send, switch
-* Information for the most recent 3 transactions included
-* Coin specification system for multi-wallet support
-* Developer fee or gem system
-* Gem draw, waiver and reduction on send-all's
+* QRcode scan of recipient address via Android camera
 
-Listed coins:
+Listed/Supported coins:
 
+* Primecoin
 * Peercoin
 * Lynx
 
