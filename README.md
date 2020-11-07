@@ -1,16 +1,17 @@
 # gemmer
 Minimalist multi-wallet by Primecoin Project and Crane Square
 
-### 0.2.4 Alpha Release
-
-0.2.4 Alpha Release
+### 0.2.5 Alpha Release
 
 Alpha release is meant for limited trial use only. Use at one's own risks.
 
-This is not an update to our previous alpha and dev releases. This release
-will install as new app instead of overwriting previous installations. If you
-have tested previous gemmer alpha and dev releases, please transfer all coins
-from old wallet to new wallet after installation.
+Please note: 0.2.3 and earlier versions of gemmer are no longer supported.
+If you have tested 0.2.3 and earlier versions of gemmer, these older
+versions will not be updated any more and will not be overwritten by newer
+releases of gemmer. Please transfer all coins out of older gemmer wallet.
+Remember you must NOT uninstall the older versions of gemmer before coins
+have been transferred out of the wallet. Uninstallation of app irreversibly
+destroys the wallet and keys stored with the app.
 
 Implemented major features in 0.2:
 
