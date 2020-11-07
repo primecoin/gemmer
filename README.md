@@ -1,7 +1,7 @@
 # gemmer
 Minimalist multi-wallet by Primecoin Project and Crane Square
 
-### 0.2.2 Developer Release
+### 0.2.3 Developer Release
 
 For developer preview and testing only.
 
@@ -10,6 +10,7 @@ Implemented major features in 0.2:
 * QRcode scan of recipient address via Android camera
 * Multi server load balancing and failover for ElectrumX
 * Auto refresh after send
+* Improve system button behavior and feedback
 
 Listed/Supported coins:
 
