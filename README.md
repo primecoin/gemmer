@@ -1,9 +1,9 @@
 # gemmer
 Minimalist multi-wallet by Primecoin Project and Crane Square
 
-### 0.2.5 Alpha Release
+### 0.2.6 Developer Release
 
-Alpha release is meant for limited trial use only. Use at one's own risks.
+For developer preview and testing only.
 
 Please note: 0.2.3 and earlier versions of gemmer are no longer supported.
 If you have tested 0.2.3 and earlier versions of gemmer, these older
