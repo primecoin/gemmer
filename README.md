@@ -1,7 +1,7 @@
 # gemmer
 Minimalist multi-wallet by Primecoin Project and Crane Square
 
-### 0.2.8 Developer Release
+### 0.2.9 Developer Release
 
 For developer preview and testing only.
 
@@ -19,7 +19,7 @@ Implemented major features in 0.2:
 * Multi server load balancing and failover for ElectrumX
 * Auto refresh after send
 * Improve system button behavior and feedback
-* Experimental locale support for Chinese and Japanese
+* Experimental locale support for Chinese, Japanese and Korean
 
 Listed/Supported coins:
 
@@ -32,12 +32,12 @@ Listed/Supported coins:
 * Unobtanium
 * Novacoin
 
-Since 0.2.7 developer release:
+Since 0.2.8 developer release:
 
-* Add support for unobtanium
-* Add support for novacoin
-* Discord invitation links for community support
-* Fix a crash issue on some phones using Chinese language
+* Command line locale support for language and currency
+* Command line support for exiting app
+* Experimental locale support for Korea
+* Fix developer fee issue with digitalcoin, unobtanium and novacoin
 
 For more information and FAQ visit [gemmer's wiki](https://github.com/primecoin/gemmer/wiki).
 
