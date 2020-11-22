@@ -1,7 +1,7 @@
 # gemmer
 Minimalist multi-wallet by Primecoin Project and Crane Square
 
-### 0.2.12 Developer Release
+### 0.2.13 Developer Release
 
 For developer preview and testing only.
 
@@ -35,13 +35,13 @@ Listed/Supported coins:
 * Unobtanium
 * Novacoin
 
-Since 0.2.11 developer release:
+Since 0.2.12 developer release:
 
-* Add support for v systems testnet
-* 20+ fiat currencies supported
-* Fiat currency support for all eurozone countries
-* Chinese language support for Hong Kong and Macao
-* Fix an issue with transaction display for pay-to-self transactions
+* Testnet name change for command line switch compatibility
+* Testnet key migration for primecoin testnet and v systems testnet
+* Support custom tcp port for ElectrumX servers
+* Additional primecoin servers for improved availability
+* Update testnet logo and display for improved distinction
 
 For more information and FAQ visit [gemmer's wiki](https://github.com/primecoin/gemmer/wiki).
 
