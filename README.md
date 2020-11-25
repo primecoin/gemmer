@@ -1,7 +1,7 @@
 # gemmer
 Minimalist multi-wallet by Primecoin Project and Crane Square
 
-### 0.2.14 Developer Release
+### 0.2.15 Developer Release
 
 For developer preview and testing only.
 
@@ -34,15 +34,12 @@ Listed/Supported coins:
 * Digitalcoin
 * Unobtanium
 * Novacoin
+* Vanillacash
 
-Since 0.2.13 developer release:
+Since 0.2.14 developer release:
 
-* User experience enhancements on buttons
-* Better mistouch handling on camera and proceed buttons
-* Larger system button for better control
-* Improve some warning messages about servers for user readability
-* CJK translations on some warning messages
-* Extend connection timeout for less often 'server busy' warnings
+* Add support for vanillacash
+* Add support for peercoin testnet
 
 For more information and FAQ visit [gemmer's wiki](https://github.com/primecoin/gemmer/wiki).
 
