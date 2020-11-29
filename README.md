@@ -1,7 +1,7 @@
 # gemmer
 Minimalist multi-wallet by Primecoin Project and Crane Square
 
-### 0.2.15 Developer Release
+### 0.2.16 Developer Release
 
 For developer preview and testing only.
 
@@ -35,11 +35,15 @@ Listed/Supported coins:
 * Unobtanium
 * Novacoin
 * Vanillacash
+* Zetacoin
+* Unitus
 
-Since 0.2.14 developer release:
+Since 0.2.15 developer release:
 
-* Add support for vanillacash
-* Add support for peercoin testnet
+* Fix crash on txinfo display for receiving from pay-to-public-key output
+* Restrict copy-pasted input to single line for visibility
+* Add support for zetacoin
+* Add support for unitus
 
 For more information and FAQ visit [gemmer's wiki](https://github.com/primecoin/gemmer/wiki).
 
