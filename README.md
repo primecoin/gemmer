@@ -1,9 +1,7 @@
 # gemmer
 Minimalist multi-wallet by Primecoin Project and Crane Square
 
-### 0.2.16 Developer Release
-
-For developer preview and testing only.
+### 0.2.17 Alpha Release
 
 Please note: 0.2.3 and earlier versions of gemmer are no longer supported.
 If you have tested 0.2.3 and earlier versions of gemmer, these older
@@ -38,12 +36,10 @@ Listed/Supported coins:
 * Zetacoin
 * Unitus
 
-Since 0.2.15 developer release:
+Since 0.2.16 developer release:
 
-* Fix crash on txinfo display for receiving from pay-to-public-key output
-* Restrict copy-pasted input to single line for visibility
-* Add support for zetacoin
-* Add support for unitus
+* Improve UI response during coin switch and refresh
+* Server error message display for transaction history
 
 For more information and FAQ visit [gemmer's wiki](https://github.com/primecoin/gemmer/wiki).
 
