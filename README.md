@@ -1,7 +1,9 @@
 # gemmer
 Minimalist multi-wallet by Primecoin Project and Crane Square
 
-### 0.2.18 Developer Release
+### 0.2.19 Developer Release
+
+For developer preview and testing only.
 
 Please note: 0.2.3 and earlier versions of gemmer are no longer supported.
 If you have tested 0.2.3 and earlier versions of gemmer, these older
@@ -38,11 +40,10 @@ Listed/Supported coins:
 * Unitus
 * Auroracoin
 
-Since 0.2.17 alpha release:
+Since 0.2.18 alpha release:
 
-* Private key export
-* Full screen QRcode display
-* Add support for auroracoin
+* Fix a crash issue on tapping deposit address
+* Tap outside menu area to close menu
 
 For more information and FAQ visit [gemmer's wiki](https://github.com/primecoin/gemmer/wiki).
 
