@@ -1,7 +1,7 @@
 # gemmer
 Minimalist multi-wallet by Primecoin Project and Crane Square
 
-### 0.2.17 Alpha Release
+### 0.2.18 Developer Release
 
 Please note: 0.2.3 and earlier versions of gemmer are no longer supported.
 If you have tested 0.2.3 and earlier versions of gemmer, these older
@@ -14,6 +14,7 @@ destroys the wallet and keys stored with the app.
 Implemented major features in 0.2:
 
 * QRcode scan of recipient address via Android camera
+* Export private key
 * Multi server load balancing and failover for ElectrumX
 * Auto refresh after send
 * Improve system button behavior and feedback
@@ -35,11 +36,13 @@ Listed/Supported coins:
 * Vanillacash
 * Zetacoin
 * Unitus
+* Auroracoin
 
-Since 0.2.16 developer release:
+Since 0.2.17 alpha release:
 
-* Improve UI response during coin switch and refresh
-* Server error message display for transaction history
+* Private key export
+* Full screen QRcode display
+* Add support for auroracoin
 
 For more information and FAQ visit [gemmer's wiki](https://github.com/primecoin/gemmer/wiki).
 
