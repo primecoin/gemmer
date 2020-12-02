@@ -1,7 +1,7 @@
 # gemmer
 Minimalist multi-wallet by Primecoin Project and Crane Square
 
-### 0.2.20 Developer Release
+### 0.2.21 Developer Release
 
 For developer preview and testing only.
 
@@ -39,11 +39,13 @@ Listed/Supported coins:
 * Zetacoin
 * Unitus
 * Auroracoin
+* Denarius
 
-Since 0.2.19 developer release:
+Since 0.2.20 developer release:
 
-* Fix a system button selection menu opening issue
-* Do not allow activating full screen QRcode while menu is open
+* Change v systems testnet key derivation for import compatibility
+* Add support for denarius
+* UI optimization for key export view and transaction info display
 
 For more information and FAQ visit [gemmer's wiki](https://github.com/primecoin/gemmer/wiki).
 
