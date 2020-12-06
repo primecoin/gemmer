@@ -1,9 +1,9 @@
 # gemmer
 Minimalist multi-wallet by Primecoin Project and Crane Square
 
-### 0.2.21 Developer Release
+### 0.2.22 Alpha Release
 
-For developer preview and testing only.
+Alpha releases typically are for limited trial use only. Use at one's own risks.
 
 Please note: 0.2.3 and earlier versions of gemmer are no longer supported.
 If you have tested 0.2.3 and earlier versions of gemmer, these older
@@ -41,11 +41,10 @@ Listed/Supported coins:
 * Auroracoin
 * Denarius
 
-Since 0.2.20 developer release:
+Since 0.2.21 developer release:
 
-* Change v systems testnet key derivation for import compatibility
-* Add support for denarius
-* UI optimization for key export view and transaction info display
+* Fix an issue on amount proceed when balance is unknown
+* Update primecoin testnet servers
 
 For more information and FAQ visit [gemmer's wiki](https://github.com/primecoin/gemmer/wiki).
 
