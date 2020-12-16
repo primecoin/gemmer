@@ -1,9 +1,9 @@
 # gemmer
 Minimalist multi-wallet by Primecoin Project and Crane Square
 
-### 0.2.24 Alpha Release
+### 0.2.25 Developer Release
 
-Alpha releases are typically for limited testing. Use at one's own risks.
+For developer preview and testing only.
 
 Please note: 0.2.3 and earlier versions of gemmer are no longer supported.
 If you have tested 0.2.3 and earlier versions of gemmer, these older
@@ -23,7 +23,7 @@ Implemented major features in 0.2:
 * Send fiat equivalent estimated amount calculated via coingecko
 * 20+ major fiat currencies supported
 * CJK language support for user input box and some warning messages
-* Experimental V Systems support
+* V Systems support
 
 Listed/Supported coins:
 
@@ -43,12 +43,14 @@ Listed/Supported coins:
 * V Systems
 * Artbyte
 
-Since 0.2.23 developer release:
+Since 0.2.24 alpha release:
 
-* Disable P2SH recipient address by default
-* Add support for artbyte
-* Enable P2SH recipient address for artbyte and primecoin testnet
-* Keep more distance between system button and coin selection menu
+* Enable P2SH recipient address for peercoin, bitcoin and primecoin
+* Support fiat estimate for v systems
+* Support node failover for v systems
+* Improve coin switch UI responsiveness
+* Fix crash on v systems view when network is disconnected
+* Fix crash on deposit via coinbase transaction from mining pool
 
 For more information and FAQ visit [gemmer's wiki](https://github.com/primecoin/gemmer/wiki).
 
