@@ -1,7 +1,7 @@
 # gemmer
 Minimalist multi-wallet by Primecoin Project and Crane Square
 
-### 0.2.26 Developer Release
+### 0.2.27 Developer Release
 
 For developer preview and testing only.
 
@@ -43,10 +43,9 @@ Listed/Supported coins:
 * V Systems
 * Artbyte
 
-Since 0.2.25 developer release:
+Since 0.2.26 developer release:
 
-* Fix a hang issue on switching to v systems
-* Adjust transaction fee level for artbyte
+* Improve app startup UI responsiveness
 
 For more information and FAQ visit [gemmer's wiki](https://github.com/primecoin/gemmer/wiki).
 
