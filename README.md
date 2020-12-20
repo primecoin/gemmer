@@ -1,9 +1,9 @@
 # gemmer
 Minimalist multi-wallet by Primecoin Project and Crane Square
 
-### 0.2.28 Developer Release
+### 0.2.29 Beta Release
 
-For developer preview and testing only.
+Public beta. Use at one's own risks. Key backup strongly recommended.
 
 Please note: 0.2.3 and earlier versions of gemmer are no longer supported.
 If you have tested 0.2.3 and earlier versions of gemmer, these older
@@ -16,22 +16,23 @@ destroys the wallet and keys stored with the app.
 Implemented major features in 0.2:
 
 * QRcode scan of recipient address via Android camera
-* Export private key
+* Backup/Export private key
 * Multi server load balancing and failover for ElectrumX
 * Auto refresh after send
 * Improve system button behavior and feedback
 * Send fiat equivalent estimated amount calculated via coingecko
 * 20+ major fiat currencies supported
-* CJK language support for user input box and some warning messages
-* V Systems support
+* CJK language support for user input box and some messages
+* V Systems architecture support
 
 Listed/Supported coins:
 
 * Primecoin
 * Peercoin
+* V Systems
+* Bitcoin
 * Lynx
 * Terracoin
-* Bitcoin
 * Digitalcoin
 * Unobtanium
 * Novacoin
@@ -40,13 +41,12 @@ Listed/Supported coins:
 * Unitus
 * Auroracoin
 * Denarius
-* V Systems
 * Artbyte
 
-Since 0.2.27 developer release:
+Since 0.2.28 developer release:
 
-* Fix text input copy-paste bubble stay issue
-* Fix keyboard out issue on coin selection
+* Fix not clearing message on coin switch
+* Adjust coingecko price quote timeout duration
 
 For more information and FAQ visit [gemmer's wiki](https://github.com/primecoin/gemmer/wiki).
 
