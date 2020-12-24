@@ -1,7 +1,7 @@
 # gemmer
 Minimalist multi-wallet by Primecoin Project and Crane Square
 
-### 0.3.0 Developer Release
+### 0.3.1 Developer Release
 
 For developer preview and testing only.
 
@@ -16,6 +16,7 @@ destroys the wallet and keys stored with the app.
 Implemented features in 0.3:
 
 * Platform update
+* UI refresh
 
 Listed/Supported coins:
 
@@ -35,11 +36,11 @@ Listed/Supported coins:
 * Denarius
 * Artbyte
 
-Since 0.2.29 beta release:
+Since 0.3.0 developer release:
 
-* Platform update to kivy 2
-* Community button for UI enhancement
-* Fix not clearing message on coin refresh
+* New button images for scan, next and send
+* Rearrange UI layout with more prominence to QRcode and balance
+* Larger system button and community button
 
 For more information and FAQ visit [gemmer's wiki](https://github.com/primecoin/gemmer/wiki).
 
