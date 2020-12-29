@@ -1,7 +1,7 @@
 # gemmer
 Minimalist multi-wallet by Primecoin Project and Crane Square
 
-### 0.3.1 Developer Release
+### 0.3.2 Developer Release
 
 For developer preview and testing only.
 
@@ -36,11 +36,9 @@ Listed/Supported coins:
 * Denarius
 * Artbyte
 
-Since 0.3.0 developer release:
+Since 0.3.1 developer release:
 
-* New button images for scan, next and send
-* Rearrange UI layout with more prominence to QRcode and balance
-* Larger system button and community button
+* Fix v systems hang issue
 
 For more information and FAQ visit [gemmer's wiki](https://github.com/primecoin/gemmer/wiki).
 
