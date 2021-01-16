@@ -1,7 +1,7 @@
 # gemmer
 Minimalist multi-wallet by Primecoin Project and Crane Square
 
-### 0.3.4 Developer Release
+### 0.3.5 Developer Release
 
 For developer preview and testing only.
 
@@ -35,10 +35,11 @@ Listed/Supported coins:
 * Auroracoin
 * Denarius
 * Artbyte
+* InfiniLooP
 
-Since 0.3.3 developer release:
+Since 0.3.4 developer release:
 
-* Fix a crash issue for v systems
+* Add support for infiniloop
 
 For more information and FAQ visit [gemmer's wiki](https://github.com/primecoin/gemmer/wiki).
 
