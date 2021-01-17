@@ -1,9 +1,9 @@
 # gemmer
 Minimalist multi-wallet by Primecoin Project and Crane Square
 
-### 0.3.5 Developer Release
+### 0.3.6 Beta Release
 
-For developer preview and testing only.
+Public beta. Use at one's own risks. Key backup strongly recommended.
 
 Please note: 0.2.3 and earlier versions of gemmer are no longer supported.
 If you have tested 0.2.3 and earlier versions of gemmer, these older
@@ -37,9 +37,9 @@ Listed/Supported coins:
 * Artbyte
 * InfiniLooP
 
-Since 0.3.4 developer release:
+Since 0.3.5 developer release:
 
-* Add support for infiniloop
+* Update primecoin testnet max transaction size
 
 For more information and FAQ visit [gemmer's wiki](https://github.com/primecoin/gemmer/wiki).
 
