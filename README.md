@@ -1,9 +1,9 @@
 # gemmer
 Minimalist multi-wallet by Primecoin Project and Crane Square
 
-### 0.3.6 Beta Release
+### 0.3.7 Developer Release
 
-Public beta. Use at one's own risks. Key backup strongly recommended.
+For developer preview and testing only.
 
 Please note: 0.2.3 and earlier versions of gemmer are no longer supported.
 If you have tested 0.2.3 and earlier versions of gemmer, these older
@@ -17,6 +17,7 @@ Implemented features in 0.3:
 
 * Platform update
 * UI refresh
+* Support tls/ssl as default transport for ElectrumX servers
 
 Listed/Supported coins:
 
@@ -37,9 +38,10 @@ Listed/Supported coins:
 * Artbyte
 * InfiniLooP
 
-Since 0.3.5 developer release:
+Since 0.3.6 beta release:
 
-* Update primecoin testnet max transaction size
+* Support tls/ssl connection to servers
+* Make tls/ssl default transport for servers
 
 For more information and FAQ visit [gemmer's wiki](https://github.com/primecoin/gemmer/wiki).
 
