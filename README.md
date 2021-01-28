@@ -1,7 +1,7 @@
 # gemmer
 Minimalist multi-wallet by Primecoin Project and Crane Square
 
-### 0.3.7 Developer Release
+### 0.3.8 Developer Release
 
 For developer preview and testing only.
 
@@ -38,10 +38,9 @@ Listed/Supported coins:
 * Artbyte
 * InfiniLooP
 
-Since 0.3.6 beta release:
+Since 0.3.7 developer release:
 
-* Support tls/ssl connection to servers
-* Make tls/ssl default transport for servers
+* Fix coinstake display crash
 
 For more information and FAQ visit [gemmer's wiki](https://github.com/primecoin/gemmer/wiki).
 
