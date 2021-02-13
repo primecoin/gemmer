@@ -1,5 +1,7 @@
-# gemmer
+# Gemmer
 Minimalist multi-wallet by Primecoin Project and Crane Square
+
+For user manuals, FAQ, listing instructions etc., visit [wiki](https://github.com/primecoin/gemmer/wiki).
 
 ### 0.3.9 Developer Release
 
