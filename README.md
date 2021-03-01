@@ -3,7 +3,7 @@ Minimalist multi-wallet by Primecoin Project and Crane Square
 
 For user manuals, FAQ, listing instructions etc., visit [wiki](https://github.com/primecoin/gemmer/wiki).
 
-### 0.3.9 Developer Release
+### 0.3.10 Developer Release
 
 For developer preview and testing only.
 
@@ -21,6 +21,7 @@ Implemented features in 0.3:
 * UI refresh
 * Support tls/ssl as default transport for ElectrumX servers
 * BIP21 QRcode support for recipient address scan
+* V Systems token support
 
 Listed/Supported coins:
 
@@ -40,11 +41,13 @@ Listed/Supported coins:
 * Denarius
 * Artbyte
 * InfiniLooP
+* Vgan
 
-Since 0.3.8 developer release:
+Since 0.3.9 developer release:
 
-* BIP21 QRcode support for recipient address scan
-* Fix not showing error message on history too large error
+* Add support for v systems token
+* Add support for vgan
+* Disable full screen mode
 
 For more information and FAQ visit [gemmer's wiki](https://github.com/primecoin/gemmer/wiki).
 
