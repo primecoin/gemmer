@@ -3,7 +3,7 @@ Minimalist multi-wallet by Primecoin Project and Crane Square
 
 For user manuals, FAQ, listing instructions etc., visit [wiki](https://github.com/primecoin/gemmer/wiki).
 
-### 0.3.10 Developer Release
+### 0.3.11 Developer Release
 
 For developer preview and testing only.
 
@@ -42,12 +42,12 @@ Listed/Supported coins:
 * Artbyte
 * InfiniLooP
 * Vgan
+* Wayawolfcoin
 
-Since 0.3.9 developer release:
+Since 0.3.10 developer release:
 
-* Add support for v systems token
-* Add support for vgan
-* Disable full screen mode
+* Experimental chat
+* Add support for wayawolfcoin
 
 For more information and FAQ visit [gemmer's wiki](https://github.com/primecoin/gemmer/wiki).
 
