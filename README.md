@@ -3,9 +3,13 @@ Minimalist multi-wallet by Primecoin Project and Crane Square
 
 For user manuals, FAQ, listing instructions etc., visit [wiki](https://github.com/primecoin/gemmer/wiki).
 
-### 0.3.11 Developer Release
+### 0.3.12 Developer Release
 
 For developer preview and testing only.
+
+NOTE: Hot fix for wayawolfcoin key export. Key export/backup must be performed
+anew for wayawolfcoin if it was done in 0.3.11 version. This issue only
+applies to wayawolfcoin. Other coins/tokens are NOT affected.
 
 Please note: 0.2.3 and earlier versions of gemmer are no longer supported.
 If you have tested 0.2.3 and earlier versions of gemmer, these older
@@ -44,10 +48,9 @@ Listed/Supported coins:
 * Vgan
 * Wayawolfcoin
 
-Since 0.3.10 developer release:
+Since 0.3.11 developer release:
 
-* Experimental chat
-* Add support for wayawolfcoin
+* Hot fix for wayawolfcoin key export/backup
 
 For more information and FAQ visit [gemmer's wiki](https://github.com/primecoin/gemmer/wiki).
 
