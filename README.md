@@ -3,54 +3,22 @@ Minimalist multi-wallet by Primecoin Project and Crane Square
 
 For user manuals, FAQ, listing instructions etc., visit [wiki](https://github.com/primecoin/gemmer/wiki).
 
-### 0.3.12 Developer Release
+### 0.4.12 Developer Release
 
-For developer preview and testing only.
+For developer testing only.
+Use at one's own risks. Key backup strongly recommended.
 
-NOTE: Hot fix for wayawolfcoin key export. Key export/backup must be performed
-anew for wayawolfcoin if it was done in 0.3.11 version. This issue only
-applies to wayawolfcoin. Other coins/tokens are NOT affected.
+NOTE: Experimental chat feature requires 0.3.20+
 
-Please note: 0.2.3 and earlier versions of gemmer are no longer supported.
-If you have tested 0.2.3 and earlier versions of gemmer, these older
-versions will not be updated any more and will not be overwritten by newer
-releases of gemmer. Please transfer all coins out of older gemmer wallet.
-Remember you must NOT uninstall the older versions of gemmer before coins
-have been transferred out of the wallet. Uninstallation of app irreversibly
-destroys the wallet and keys stored with the app.
+Implemented features in 0.4:
 
-Implemented features in 0.3:
+* Embedded gemmer wallet aka gemmerlib
+* UI switch from landscape mode to portrait mode
+* Experimental chat
 
-* Platform update
-* UI refresh
-* Support tls/ssl as default transport for ElectrumX servers
-* BIP21 QRcode support for recipient address scan
-* V Systems token support
+New in this release:
 
-Listed/Supported coins:
-
-* Primecoin
-* Peercoin
-* V Systems
-* Bitcoin
-* Lynx
-* Terracoin
-* Digitalcoin
-* Unobtanium
-* Novacoin
-* Vanillacash
-* Zetacoin
-* Unitus
-* Auroracoin
-* Denarius
-* Artbyte
-* InfiniLooP
-* Vgan
-* Wayawolfcoin
-
-Since 0.3.11 developer release:
-
-* Hot fix for wayawolfcoin key export/backup
+* Support for zetacoin upgrade
 
 For more information and FAQ visit [gemmer's wiki](https://github.com/primecoin/gemmer/wiki).
 
