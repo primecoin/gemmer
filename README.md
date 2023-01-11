@@ -3,22 +3,28 @@ Minimalist multi-wallet by Primecoin Project and Crane Square
 
 For user manuals, FAQ, listing instructions etc., visit [wiki](https://github.com/primecoin/gemmer/wiki).
 
-### 0.4.12 Developer Release
+### 0.4.14 Developer Release
 
 For developer testing only.
 Use at one's own risks. Key backup strongly recommended.
 
-NOTE: Experimental chat feature requires 0.3.20+
+NOTE: Zetacoin upgrade since 0.4.12+ is incompatible to old zetacoin as the
+wallet address format has been changed. Balance on old zetacoin wallet address
+does NOT carry over in Gemmer.
+
+NOTE: Artbyte upgrade since 0.4.13+ is incompatible to old artbyte as the
+wallet address format has been changed. Balance on old artbyte wallet address
+does NOT carry over in Gemmer.
 
 Implemented features in 0.4:
 
-* Embedded gemmer wallet aka gemmerlib
-* UI switch from landscape mode to portrait mode
-* Experimental chat
+    Embedded gemmer wallet aka gemmerlib
+    UI switch from landscape mode to portrait mode
+    Experimental chat
 
 New in this release:
 
-* Support for zetacoin upgrade
+    Support vcloud usd token
 
 For more information and FAQ visit [gemmer's wiki](https://github.com/primecoin/gemmer/wiki).
 
