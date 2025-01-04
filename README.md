@@ -3,10 +3,9 @@ Minimalist multi-wallet by Primecoin Project and Crane Square
 
 For user manuals, FAQ, listing instructions etc., visit [wiki](https://github.com/primecoin/gemmer/wiki).
 
-### 0.4.25 Beta Release
+### 0.5.0 Developer Release
 
-0.4.25 Beta Release
-
+For developer testing and debugging. Generally not recommended for users.
 Use at one's own risks. Key backup strongly recommended.
 
 NOTE: GlobalBoost-y has been delisted since 0.4.21+. Key export is made
@@ -21,16 +20,18 @@ NOTE: Zetacoin upgrade since 0.4.12+ is incompatible to old zetacoin as the
 wallet address format has been changed. Balance on old zetacoin wallet address
 does NOT carry over in Gemmer.
 
-Implemented features in 0.4:
+Implemented features in 0.5:
 
-* Embedded gemmer wallet aka gemmerlib
-* UI switch from landscape mode to portrait mode
-* Experimental chat
-* Full Android support since 0.4.11+ (64-bit and 32-bit)
+* Experimental support of bech32 recipient for bitcoin architecture coins
+* Bech32 recipient address feature is enabled on a case-by-case basis
 
 New in this release:
 
-* Fix an issue with experimental chat feature
+* Support bech32 recipient address on case by case basis
+* Enable bech32 recipient address for peercoin
+* Enable bech32 recipient address for bitcoin
+* Update bitcoin electrumx server list
+* Lower bitcoin transaction fee to 12 satoshi/byte
 
 For more information and FAQ visit [gemmer's wiki](https://github.com/primecoin/gemmer/wiki).
 
